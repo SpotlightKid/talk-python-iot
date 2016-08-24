@@ -1,4 +1,4 @@
-# main.py
+# blink.py
 
 import pyb
 
